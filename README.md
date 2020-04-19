@@ -54,7 +54,7 @@
 
 [ ] work at lots of different companies (to get lots of different perspectives)
 
-[ ] get a raise
+[x] get a raise
 
 [ ] become a manager
 
@@ -81,7 +81,7 @@
 ## Entrepreneurship Goals  [0/5]
 
 
-[ ] start freelancing
+[x] start freelancing
 
 [ ] start a consulting company
 
@@ -130,7 +130,7 @@
 
 [ ] write a technical book
 
-[ ] Learn to say "NO" to people, things, places, requests etc.
+[x] Learn to say "NO" to people, things, places, requests etc.
 
 [x] give a talk (meetup, conference talk, keynote)
 
@@ -156,7 +156,7 @@
 
 [x] get flexible hours
 
-[ ] work remotely
+[x] work remotely
 
 [ ] get your own office
 
