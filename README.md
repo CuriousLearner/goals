@@ -35,7 +35,7 @@
 
 [x] be able to build prototypes quickly for new ideas
 
-## Job Goals  [8/20]
+## Job Goals  [9/20]
 
 
 [x] get your first job
@@ -78,7 +78,7 @@
 
 [ ] become a baker / work on something else entirely :)
 
-## Entrepreneurship Goals  [0/5]
+## Entrepreneurship Goals  [1/5]
 
 
 [x] start freelancing
@@ -125,7 +125,7 @@
 
 [x] build a community that matters to people (via a meetup group or otherwise)
 
-## Communication / Community Goals [2/10]
+## Communication / Community Goals [4/10]
 
 
 [ ] write a technical book
@@ -150,8 +150,7 @@
 
 [x] Get better at English (writing, speaking, listening, reading) [TOEFL: 100/120]
 
-## Work Environment Goals  
-[4/8]
+## Work Environment Goals  [5/8]
 
 
 [x] get flexible hours
