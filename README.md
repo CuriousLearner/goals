@@ -78,13 +78,13 @@
 
 - [ ] become a baker / work on something else entirely :)
 
-## Entrepreneurship Goals - [1/5]
+## Entrepreneurship Goals - [2/5]
 
 - [x] start freelancing
 
 - [ ] start a consulting company
 
-- [ ] make your first sale of software you wrote
+- [x] make your first sale of software you wrote
 
 - [ ] get VC funding / start a startup
 
